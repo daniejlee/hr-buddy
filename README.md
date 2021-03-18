@@ -16,7 +16,7 @@ A full stack React.js employee management web application for businesses that wa
 
 ## Live Demo
 
-Try the application live at [https://hr-buddy.andrewkpark.com/](https://hr-buddy.andrewkpark.com/)
+Try the application live at [https://hr-buddy.danjlee.tech/](https://hr-buddy.danjlee.tech/)
 
 ## Features
 
@@ -88,11 +88,3 @@ Try the application live at [https://hr-buddy.andrewkpark.com/](https://hr-buddy
     ```
 
 7. Once started you can view the application by opening http://localhost:3000 in your browser.
-
-## Links & socials
-
-Portfolio: https://milamirian.com
-
-LinkedIn: https://www.linkedin.com/in/milamirian/
-
-Twitter: https://twitter.com/mamirian2

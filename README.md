@@ -60,7 +60,7 @@ Try the application live at [https://hr-buddy.danjlee.tech/](https://hr-buddy.da
 2. Clone the repository.
 
     ```shell
-    https://github.com/mil-amirian/hr-buddy.git
+    https://github.com/daniejlee/hr-buddy.git
     cd hr-buddy
     ```
 
